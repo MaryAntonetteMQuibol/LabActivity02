@@ -1,0 +1,16 @@
+<DOCTYPE html>
+	<html>
+		<head>
+			<title> Gymnastics </title>
+		</head>
+		<body>
+			<h1> Gymnastics </h1>
+			<hr>
+			<ul>
+				<li>Ever since I can remember, I have been flexible.</li>
+				<li>I noticed that, I'm more capable of doing certain actions thatm most people usually can't do.</li>
+				<li>I embraced this talent, and I am still furnishing it until now.</li>
+			</ul>
+			
+		</body>
+	</html> 
