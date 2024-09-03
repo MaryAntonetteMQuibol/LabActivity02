@@ -1,0 +1,16 @@
+<DOCTYPE html>
+	<html>
+		<head>
+			<title> Mobile Legends </title>
+		</head>
+		<body>
+			<h1> Mobile Legends </h1>
+			<hr>
+			<ul>
+				<li>The summer of 2019 was my first ever encounter with a mobile phone.</li>
+				<li>As the curious george that I am, I stumbled upon a mobile game called: MLBB Bang Bang.</li>
+				<li>After that, I regularly play Mobile Legends; and even received local awards.</li>
+			</ul>
+			
+		</body>
+	</html> 
